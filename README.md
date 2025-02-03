@@ -20,7 +20,7 @@ I’m a **data enthusiast** who thrives on transforming raw data into **actionab
 🏗 **Data Engineering:** Data Warehousing | Data Lakes  
 
 
-### 💬 Let’s Connect!  
+### 💬 Github Status
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushbansal210&count_private=true&show_icons=true&theme=dark" width="500"></img></div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushbansal210&show_icons=true&theme=dark&layout=compact" width="350" height="230"></img></div> 
