@@ -19,11 +19,6 @@ I’m a **data enthusiast** who thrives on transforming raw data into **actionab
 🤖 **Automation & Scraping:** BeautifulSoup | Selenium | Scrapy  
 🏗 **Data Engineering:** Data Warehousing | Data Lakes  
 
-### 💡 Featured Projects  
-🚴 **Cyclistic Bike-Share Analysis** – Developed data-driven strategies to increase memberships  
-📊 **Bellabeat Wellness Tech Insights** – Leveraged Fitbit data for targeted marketing strategies  
-📈 **Data Analysis Process Implementation** – Solved real-world business challenges using structured analytics  
-
 ### 💬 Let’s Connect!  
 I’m always up for collaborating on **exciting data projects, research, and open-source contributions**. Let’s build something impactful together!  
 
